@@ -21,6 +21,7 @@ class Installer extends LibraryInstaller
 
     public function getInstallPath(PackageInterface $package)
     {
+        var_dump($package);
         $extra = $package->getExtra();
 
         if (!$extra['install-name']) {
