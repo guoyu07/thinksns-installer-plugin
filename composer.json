@@ -27,8 +27,7 @@
         }
     },
     "support": {
-        "issues": "http://demo.thinksns.com",
         "forum": "http://demo.thinksns.com",
-        "source": "http://demo.thinksns.com"
+        "source": "https://github.com/medz/thinksns-installer-plugin.git"
     }
 }
