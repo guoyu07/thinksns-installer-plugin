@@ -14,7 +14,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Medz\\Component\\Installer\\ThinkSNS\\Composer": "src/"
+            "Medz\\Component\\Installer\\ThinkSNS\\Composer\\": "src/"
         }
     },
     "require": {
